@@ -1,2 +1,2 @@
-An visiualize 2D imbalanced data:\\
+An visiualize 2D imbalanced data:   
 ![data](./data.png)
